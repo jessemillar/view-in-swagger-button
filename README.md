@@ -1,5 +1,5 @@
 # view-in-swagger-button
-An .svg file for adding Markdown "View in Swagger" buttons to sites and README files
+An .svg file for adding Markdown "View in Swagger" buttons to sites and README files.
 
 ### Button
 This is what the button looks like. It's basically the same thing as the [Run in Postman button](https://www.getpostman.com/docs/run_button).
